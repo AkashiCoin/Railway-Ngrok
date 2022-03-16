@@ -13,4 +13,4 @@ services:
       - key: NGROK_TOKEN
         sync:
       - key: REGION
-        sync: jp 
+        sync:
